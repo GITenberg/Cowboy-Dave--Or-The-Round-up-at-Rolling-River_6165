@@ -1,0 +1,29 @@
+_repo: Cowboy-Dave--Or-The-Round-up-at-Rolling-River_6165
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Webster, Frank V.
+    gutenberg_agent_id: '1955'
+    url: http://www.gutenberg.org/2009/agents/1955
+description: What was coming seemed to be a thunderous cloud of dust, from the midst
+  of which came strange, shrill sounds, punc-tuated with sharp cries, that did not
+  appear to be altogether human. The dust-cloud grew thicker, the thunder sounded
+  louder, and the yells were shriller. From one of a group of dull, red buildings
+  a sun-bronzed man stepped forth. He shaded his eyes with a brown, powerful hand,
+  gazed for an instant toward the approaching cloud of animated and vociferous dust.
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6165'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ranches -- Juvenile fiction'
+- !lcsh 'Orphans -- Juvenile fiction'
+- !lcsh 'Cowboys -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Cowboy Dave; Or, The Round-up at Rolling River
+url: http://www.gutenberg.org/ebooks/6165
