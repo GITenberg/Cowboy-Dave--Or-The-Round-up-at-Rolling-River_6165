@@ -1,5 +1,8 @@
 _repo: Cowboy-Dave--Or-The-Round-up-at-Rolling-River_6165
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Webster, Frank V.
@@ -11,6 +14,8 @@ description: What was coming seemed to be a thunderous cloud of dust, from the m
   louder, and the yells were shriller. From one of a group of dull, red buildings
   a sun-bronzed man stepped forth. He shaded his eyes with a brown, powerful hand,
   gazed for an instant toward the approaching cloud of animated and vociferous dust.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6165#Cowboy-Dave--Or-The-Round-up-at-Rolling-River
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
